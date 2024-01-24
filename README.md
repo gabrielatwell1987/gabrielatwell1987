@@ -1,10 +1,10 @@
 ## My name is Gabe 🤖
 
 I know:
--HTML
--CSS
--JavaScript
--GSAP
+- HTML
+- CSS
+- JavaScript
+- GSAP
 
 Please contact me if I can help you with anything!
 
