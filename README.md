@@ -8,7 +8,7 @@ This is what I;m proficient in:
 - JavaScript
 - GSAP
 
-Please contact me if I can help you with anything!
+Please contact me if you need a frontend dev!
 
 <!--
 **gabrielatwell1987/gabrielatwell1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
