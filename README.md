@@ -1,4 +1,4 @@
-## My name is Gabe 🤖
+# My name is Gabe 🤖
 
 I am a frontend developer that has built many projects for fun. I really enjoy CSS and Greensock because it is, what I consider, what I'm very good at. Don't be shy if you have a question or problem, I'll help you if I can.
 
