@@ -1,4 +1,12 @@
-### Hi there 👋
+## My name is Gabe 🤖
+
+I know:
+-HTML
+-CSS
+-JavaScript
+-GSAP
+
+Please contact me if I can help you with anything!
 
 <!--
 **gabrielatwell1987/gabrielatwell1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
