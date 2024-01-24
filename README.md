@@ -1,6 +1,8 @@
 ## My name is Gabe 🤖
 
-I know:
+I am a frontend developer that has built many projects for fun. I really enjoy CSS and Greensock because it is, what I consider, what I'm very good at. Don't be shy if you have a question or problem, I'll help you if I can.
+
+This is what I;m proficient in:
 - HTML
 - CSS
 - JavaScript
