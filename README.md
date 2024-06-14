@@ -1,3 +1,5 @@
+<img src="https://www.gabrielatwell.com/photos/wtf3.png" alt="Gabriel Atwell when he was little">
+
 # My name is Gabe 🤖
 
 I am a frontend developer that has built many projects for fun. I really enjoy CSS and Greensock because it is what I'm very good at. I've also been getting into three.js. Don't be shy if you have a question or problem, I'll help you if I can.
