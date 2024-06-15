@@ -1,4 +1,5 @@
-<img style="margin-inline: auto" src="https://www.gabrielatwell.com/photos/gabe8.png" alt="Gabriel Atwell">
+<img style="margin-inline: auto" src="https://github.com/gabrielatwell1987/portfolio/blob/edbde00ad368a679f97dbc615ccc3d703af9ad7c/static/logos/atwell-a.jpeg" alt="Gabriel Atwell">
+
 
 # My name is Gabe 🤖
 
