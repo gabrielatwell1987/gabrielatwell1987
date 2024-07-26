@@ -23,4 +23,10 @@ My main goal is really simple.. to become an aspiring frontend developer. I like
 
 Please contact me if you need a frontend dev!
 
+## Connect with me
+- <a href="https://www.linkedin.com/in/gabriel-atwell-ab2116231/">LinkedIn</a>
+- <a href="https://codepen.io/gabrielatwell">CodePen</a>
+- <a href="https://www.reddit.com/user/gatwell702">Reddit</a>
+- <a href="https://x.com/GabeAtwell">X/Twitter</a>
+
 <a href="https://gabrielatwell.com">gabrielatwell.com</a>
