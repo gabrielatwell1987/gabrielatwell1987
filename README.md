@@ -15,6 +15,7 @@ I am a frontend developer that has built many projects for fun. I really enjoy C
 - <a href="https://data-viz-svelte.vercel.app">Data Visualizations</a>
 - <a href="https://pw-generator-ebon.vercel.app">Password Generator</a>
 - <a href="https://gabe1.vercel.app">S.P.A.</a>
+- <a href="https://adiapp.vercel.app">Github API</a>
 
 ## Main Goal
 My main goal is really simple.. to become an aspiring frontend developer. I like building things that people can see and touch. Most people call this User Interface(UI) design and I've been studying this immensely. I have also been studying User Experience(UX) design as well. I enjoy learning as well.. I've been teaching myself the backend of development for a hobby.
