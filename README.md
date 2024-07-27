@@ -1,6 +1,6 @@
 ## About Me
 
-I am a frontend developer that has built many projects for fun. I really enjoy CSS and animatiion on the web.. especially GSAP. Some say that I'm a visual person. I've also been getting into three.js, to make awesome 3d animations. Don't be shy if you have a question or problem, I'll help you if I can.
+I am a frontend developer that has built many projects for fun. I really enjoy CSS and animation on the web.. especially GSAP. Some say that I'm a visual person. I've also been getting into three.js, to make awesome 3d animations. Don't be shy if you have a question or problem, I'll help you if I can.
 
 ## Skills:
 - HTML
@@ -18,7 +18,7 @@ I am a frontend developer that has built many projects for fun. I really enjoy C
 - <a href="https://adiapp.vercel.app">Github API</a>
 
 ## Main Goal
-My main goal is really simple.. to become an aspiring frontend developer. I like building things that people can see and touch. Most people call this User Interface(UI) design and I've been studying this immensely. I have also been studying User Experience(UX) design as well. I enjoy learning as well.. I've been teaching myself the backend of development for a hobby.
+My main goal is really simple.. to become an aspiring frontend developer. I like building things that people can see and touch. Most people call this User Interface(UI) design and I've been studying this immensely. I have also been studying User Experience(UX) design as well. I enjoy learning as well.. I've been teaching myself the backend of development for a hobby but frontend is where I'm very comfortable.
 
 
 Please contact me if you need a frontend dev!
